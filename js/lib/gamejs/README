@@ -1,0 +1,8 @@
+This is a custom copy of gamejs' lib directory after running::
+
+     $> node ../../../requirejs/r.js -convert ../../lib .
+
+It includes some important improvements to gamejs and that is why this directory
+is added to the main git repo.
+
+This library should be updated everytime gamejs submodule gets updated.
